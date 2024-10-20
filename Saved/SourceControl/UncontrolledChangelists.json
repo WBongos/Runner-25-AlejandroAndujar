@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Lista de cambios no controlados predeterminada",
 			"files": [
+				"C:/Users/alexg/OneDrive/Documentos/Unreal Projects/Runner25Alejandro/Runner-25-AlejandroAndujar/Content/Blueprints/BP_Player.uasset",
+				"C:/Users/alexg/OneDrive/Documentos/Unreal Projects/Runner25Alejandro/Runner-25-AlejandroAndujar/Content/Blueprints/BP_Bala.uasset",
+				"C:/Users/alexg/OneDrive/Documentos/Unreal Projects/Runner25Alejandro/Runner-25-AlejandroAndujar/Content/Blueprints/Pool/BP_PooledActor.uasset",
+				"C:/Users/alexg/OneDrive/Documentos/Unreal Projects/Runner25Alejandro/Runner-25-AlejandroAndujar/Content/Blueprints/Parallax/BP_Parallax.uasset",
+				"C:/Users/alexg/OneDrive/Documentos/Unreal Projects/Runner25Alejandro/Runner-25-AlejandroAndujar/Content/MainMap.umap",
 				"C:/Users/alexg/OneDrive/Documentos/Unreal Projects/Runner25Alejandro/Content/Sprites/Sprites/world_tileset.uasset",
 				"C:/Users/alexg/OneDrive/Documentos/Unreal Projects/Runner25Alejandro/Content/Sprites/Sprites/Fall/Fall_01.uasset",
 				"C:/Users/alexg/OneDrive/Documentos/Unreal Projects/Runner25Alejandro/Content/Sprites/Sprites/Idle/Idle_01.uasset",
